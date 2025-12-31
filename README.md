@@ -3,19 +3,19 @@
 
 ### 🌟 Features
 
--✨ Beautiful animated background
--💖 Floating hearts & love effects
--🎆 Fireworks animation
--🎵 Background romantic music
--🌍 Multi-language support:
+- ✨ Beautiful animated background
+- 💖 Floating hearts & love effects
+- 🎆 Fireworks animation
+- 🎵 Background romantic music
+- 🌍 Multi-language support:
 
--English 🇬🇧
+- English 🇬🇧
 
--Hindi 🇮🇳
+- Hindi 🇮🇳
 
 - Telugu 🇮🇳
 
--🧸 Cute couple image animation
--❤️ Emotional love story
--📱 Fully responsive (mobile & desktop)
--⚡ Fast loading & lightweight
+- 🧸 Cute couple image animation
+- ❤️ Emotional love story
+- 📱 Fully responsive (mobile & desktop)
+- ⚡ Fast loading & lightweight
